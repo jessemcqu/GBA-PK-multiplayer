@@ -1,4 +1,4 @@
-local IPAddress, Port = "127.0.0.1", 4096
+local IPAddress, Port = "192.168.1.17
 local GameID = ""
 local GameCode = "None"
 local Nickname = ""
